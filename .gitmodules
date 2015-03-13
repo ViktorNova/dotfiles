@@ -1,0 +1,3 @@
+[submodule "nano-highlight"]
+	path = DOT.config/nano-highlight
+	url = https://github.com/ViktorNova/nano-highlight.git
