@@ -14,90 +14,79 @@ color cyan 		"^--\ \}.*"
 color cyan 		"^\(.*"
 color cyan 		"^#\(.*"
 
-#color green "^[ \t]*#.*
 
 include ~/Dev/nano-highlight/lua.nanorc
 include ~/Dev/nano-highlight/python.nanorc
 include ~/Dev/nano-highlight/others.nanorc
 
-include /usr/share/nano/nanorc.nanorc
-include /usr/share/nano/php.nanorc
-include /usr/share/nano/sh.nanorc
-include /usr/share/nano/xml.nanorc
-include /usr/share/nano/html.nanorc
-include /usr/share/nano/makefile.nanorc
-include /usr/share/nano/css.nanorc
-include /usr/share/nano/c.nanorc
-include /usr/share/nano/cmake.nanorc
+~/Dev/nano-highlight/apacheconf.nanorc
+~/Dev/nano-highlight/asciidoc.nanorc
+~/Dev/nano-highlight/asm.nanorc
+~/Dev/nano-highlight/awk.nanorc
+~/Dev/nano-highlight/c.nanorc
+~/Dev/nano-highlight/cmake.nanorc
+~/Dev/nano-highlight/coffeescript.nanorc
+~/Dev/nano-highlight/colortest.nanorc
+~/Dev/nano-highlight/conf.nanorc
+~/Dev/nano-highlight/csharp.nanorc
+~/Dev/nano-highlight/css.nanorc
+~/Dev/nano-highlight/cython.nanorc
+~/Dev/nano-highlight/dot.nanorc
+~/Dev/nano-highlight/email.nanorc
+~/Dev/nano-highlight/erb.nanorc
+~/Dev/nano-highlight/fish.nanorc
+~/Dev/nano-highlight/fortran.nanorc
+~/Dev/nano-highlight/gentoo.nanorc
+~/Dev/nano-highlight/git.nanorc
+~/Dev/nano-highlight/glsl.nanorc
+~/Dev/nano-highlight/go.nanorc
+~/Dev/nano-highlight/groff.nanorc
+~/Dev/nano-highlight/haml.nanorc
+~/Dev/nano-highlight/html.nanorc
+~/Dev/nano-highlight/ini.nanorc
+~/Dev/nano-highlight/inputrc.nanorc
+~/Dev/nano-highlight/java.nanorc
+~/Dev/nano-highlight/javascript.nanorc
+~/Dev/nano-highlight/js.nanorc
+~/Dev/nano-highlight/json.nanorc
+~/Dev/nano-highlight/keymap.nanorc
+~/Dev/nano-highlight/kickstart.nanorc
+~/Dev/nano-highlight/ledger.nanorc
+~/Dev/nano-highlight/lisp.nanorc
 
-include /usr/share/nano-syntax-highlighting/apacheconf.nanorc
-include /usr/share/nano-syntax-highlighting/asciidoc.nanorc
-include /usr/share/nano-syntax-highlighting/asm.nanorc
-include /usr/share/nano-syntax-highlighting/awk.nanorc
-include /usr/share/nano-syntax-highlighting/c.nanorc
-include /usr/share/nano-syntax-highlighting/cmake.nanorc
-include /usr/share/nano-syntax-highlighting/coffeescript.nanorc
-include /usr/share/nano-syntax-highlighting/colortest.nanorc
-include /usr/share/nano-syntax-highlighting/conf.nanorc
-include /usr/share/nano-syntax-highlighting/csharp.nanorc
-include /usr/share/nano-syntax-highlighting/css.nanorc
-include /usr/share/nano-syntax-highlighting/cython.nanorc
-include /usr/share/nano-syntax-highlighting/dot.nanorc
-include /usr/share/nano-syntax-highlighting/email.nanorc
-include /usr/share/nano-syntax-highlighting/erb.nanorc
-include /usr/share/nano-syntax-highlighting/fish.nanorc
-include /usr/share/nano-syntax-highlighting/fortran.nanorc
-include /usr/share/nano-syntax-highlighting/gentoo.nanorc
-include /usr/share/nano-syntax-highlighting/git.nanorc
-include /usr/share/nano-syntax-highlighting/glsl.nanorc
-include /usr/share/nano-syntax-highlighting/go.nanorc
-include /usr/share/nano-syntax-highlighting/groff.nanorc
-include /usr/share/nano-syntax-highlighting/haml.nanorc
-include /usr/share/nano-syntax-highlighting/html.nanorc
-include /usr/share/nano-syntax-highlighting/ini.nanorc
-include /usr/share/nano-syntax-highlighting/inputrc.nanorc
-include /usr/share/nano-syntax-highlighting/java.nanorc
-include /usr/share/nano-syntax-highlighting/javascript.nanorc
-include /usr/share/nano-syntax-highlighting/js.nanorc
-include /usr/share/nano-syntax-highlighting/json.nanorc
-include /usr/share/nano-syntax-highlighting/keymap.nanorc
-include /usr/share/nano-syntax-highlighting/kickstart.nanorc
-include /usr/share/nano-syntax-highlighting/ledger.nanorc
-include /usr/share/nano-syntax-highlighting/lisp.nanorc
-
-include /usr/share/nano-syntax-highlighting/makefile.nanorc
-include /usr/share/nano-syntax-highlighting/man.nanorc
-include /usr/share/nano-syntax-highlighting/markdown.nanorc
-include /usr/share/nano-syntax-highlighting/mpdconf.nanorc
-include /usr/share/nano-syntax-highlighting/mutt.nanorc
-include /usr/share/nano-syntax-highlighting/nanorc.nanorc
-include /usr/share/nano-syntax-highlighting/nginx.nanorc
-include /usr/share/nano-syntax-highlighting/patch.nanorc
-include /usr/share/nano-syntax-highlighting/peg.nanorc
-include /usr/share/nano-syntax-highlighting/perl.nanorc
-include /usr/share/nano-syntax-highlighting/php.nanorc
-include /usr/share/nano-syntax-highlighting/pkg-config.nanorc
-include /usr/share/nano-syntax-highlighting/pkgbuild.nanorc
-include /usr/share/nano-syntax-highlighting/po.nanorc
-include /usr/share/nano-syntax-highlighting/pov.nanorc
-include /usr/share/nano-syntax-highlighting/privoxy.nanorc
-include /usr/share/nano-syntax-highlighting/puppet.nanorc
-include /usr/share/nano-syntax-highlighting/python.nanorc
-include /usr/share/nano-syntax-highlighting/reST.nanorc
-include /usr/share/nano-syntax-highlighting/rpmspec.nanorc
-include /usr/share/nano-syntax-highlighting/ruby.nanorc
-include /usr/share/nano-syntax-highlighting/scala.nanorc
-include /usr/share/nano-syntax-highlighting/sed.nanorc
-include /usr/share/nano-syntax-highlighting/sh.nanorc
-include /usr/share/nano-syntax-highlighting/sql.nanorc
-include /usr/share/nano-syntax-highlighting/systemd.nanorc
-include /usr/share/nano-syntax-highlighting/tcl.nanorc
-include /usr/share/nano-syntax-highlighting/tex.nanorc
-include /usr/share/nano-syntax-highlighting/vala.nanorc
-include /usr/share/nano-syntax-highlighting/vi.nanorc
-include /usr/share/nano-syntax-highlighting/xml.nanorc
-include /usr/share/nano-syntax-highlighting/xresources.nanorc
-include /usr/share/nano-syntax-highlighting/yaml.nanorc
-include /usr/share/nano-syntax-highlighting/yum.nanorc
-include /usr/share/nano-syntax-highlighting/zsh.nanorc
+~/Dev/nano-highlight/makefile.nanorc
+~/Dev/nano-highlight/man.nanorc
+~/Dev/nano-highlight/markdown.nanorc
+~/Dev/nano-highlight/mpdconf.nanorc
+~/Dev/nano-highlight/mutt.nanorc
+~/Dev/nano-highlight/nanorc.nanorc
+~/Dev/nano-highlight/nginx.nanorc
+~/Dev/nano-highlight/patch.nanorc
+~/Dev/nano-highlight/peg.nanorc
+~/Dev/nano-highlight/perl.nanorc
+~/Dev/nano-highlight/php.nanorc
+~/Dev/nano-highlight/pkg-config.nanorc
+~/Dev/nano-highlight/pkgbuild.nanorc
+~/Dev/nano-highlight/po.nanorc
+~/Dev/nano-highlight/pov.nanorc
+~/Dev/nano-highlight/privoxy.nanorc
+~/Dev/nano-highlight/puppet.nanorc
+~/Dev/nano-highlight/python.nanorc
+~/Dev/nano-highlight/reST.nanorc
+~/Dev/nano-highlight/rpmspec.nanorc
+~/Dev/nano-highlight/ruby.nanorc
+~/Dev/nano-highlight/scala.nanorc
+~/Dev/nano-highlight/sed.nanorc
+~/Dev/nano-highlight/sh.nanorc
+~/Dev/nano-highlight/sql.nanorc
+~/Dev/nano-highlight/systemd.nanorc
+~/Dev/nano-highlight/tcl.nanorc
+~/Dev/nano-highlight/tex.nanorc
+~/Dev/nano-highlight/vala.nanorc
+~/Dev/nano-highlight/vi.nanorc
+~/Dev/nano-highlight/xml.nanorc
+~/Dev/nano-highlight/xresources.nanorc
+~/Dev/nano-highlight/yaml.nanorc
+~/Dev/nano-highlight/yum.nanorc
+~/Dev/nano-highlight/zsh.nanorc
 
