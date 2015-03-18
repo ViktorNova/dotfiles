@@ -22,6 +22,7 @@ include ~/Dev/nano-highlight/others.nanorc
 ~/Dev/nano-highlight/apacheconf.nanorc
 ~/Dev/nano-highlight/asciidoc.nanorc
 ~/Dev/nano-highlight/asm.nanorc
+~/Dev/nano-highlight/asterisk.nanorc
 ~/Dev/nano-highlight/awk.nanorc
 ~/Dev/nano-highlight/c.nanorc
 ~/Dev/nano-highlight/cmake.nanorc
