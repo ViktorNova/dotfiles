@@ -19,75 +19,74 @@ include ~/Dev/nano-highlight/lua.nanorc
 include ~/Dev/nano-highlight/python.nanorc
 include ~/Dev/nano-highlight/others.nanorc
 
-~/Dev/nano-highlight/apacheconf.nanorc
-~/Dev/nano-highlight/asciidoc.nanorc
-~/Dev/nano-highlight/asm.nanorc
-~/Dev/nano-highlight/asterisk.nanorc
-~/Dev/nano-highlight/awk.nanorc
-~/Dev/nano-highlight/c.nanorc
-~/Dev/nano-highlight/cmake.nanorc
-~/Dev/nano-highlight/coffeescript.nanorc
-~/Dev/nano-highlight/colortest.nanorc
-~/Dev/nano-highlight/conf.nanorc
-~/Dev/nano-highlight/csharp.nanorc
-~/Dev/nano-highlight/css.nanorc
-~/Dev/nano-highlight/cython.nanorc
-~/Dev/nano-highlight/dot.nanorc
-~/Dev/nano-highlight/email.nanorc
-~/Dev/nano-highlight/erb.nanorc
-~/Dev/nano-highlight/fish.nanorc
-~/Dev/nano-highlight/fortran.nanorc
-~/Dev/nano-highlight/gentoo.nanorc
-~/Dev/nano-highlight/git.nanorc
-~/Dev/nano-highlight/glsl.nanorc
-~/Dev/nano-highlight/go.nanorc
-~/Dev/nano-highlight/groff.nanorc
-~/Dev/nano-highlight/haml.nanorc
-~/Dev/nano-highlight/html.nanorc
-~/Dev/nano-highlight/ini.nanorc
-~/Dev/nano-highlight/inputrc.nanorc
-~/Dev/nano-highlight/java.nanorc
-~/Dev/nano-highlight/javascript.nanorc
-~/Dev/nano-highlight/js.nanorc
-~/Dev/nano-highlight/json.nanorc
-~/Dev/nano-highlight/keymap.nanorc
-~/Dev/nano-highlight/kickstart.nanorc
-~/Dev/nano-highlight/ledger.nanorc
-~/Dev/nano-highlight/lisp.nanorc
+include ~/Dev/nano-highlight/apacheconf.nanorc
+include ~/Dev/nano-highlight/asciidoc.nanorc
+include ~/Dev/nano-highlight/asm.nanorc
+include ~/Dev/nano-highlight/awk.nanorc
+include ~/Dev/nano-highlight/c.nanorc
+include ~/Dev/nano-highlight/cmake.nanorc
+include ~/Dev/nano-highlight/coffeescript.nanorc
+include ~/Dev/nano-highlight/colortest.nanorc
+include ~/Dev/nano-highlight/conf.nanorc
+include ~/Dev/nano-highlight/csharp.nanorc
+include ~/Dev/nano-highlight/css.nanorc
+include ~/Dev/nano-highlight/cython.nanorc
+include ~/Dev/nano-highlight/dot.nanorc
+include ~/Dev/nano-highlight/email.nanorc
+include ~/Dev/nano-highlight/erb.nanorc
+include ~/Dev/nano-highlight/fish.nanorc
+include ~/Dev/nano-highlight/fortran.nanorc
+include ~/Dev/nano-highlight/gentoo.nanorc
+include ~/Dev/nano-highlight/git.nanorc
+include ~/Dev/nano-highlight/glsl.nanorc
+include ~/Dev/nano-highlight/go.nanorc
+include ~/Dev/nano-highlight/groff.nanorc
+include ~/Dev/nano-highlight/haml.nanorc
+include ~/Dev/nano-highlight/html.nanorc
+include ~/Dev/nano-highlight/ini.nanorc
+include ~/Dev/nano-highlight/inputrc.nanorc
+include ~/Dev/nano-highlight/java.nanorc
+include ~/Dev/nano-highlight/javascript.nanorc
+include ~/Dev/nano-highlight/js.nanorc
+include ~/Dev/nano-highlight/json.nanorc
+include ~/Dev/nano-highlight/keymap.nanorc
+include ~/Dev/nano-highlight/kickstart.nanorc
+include ~/Dev/nano-highlight/ledger.nanorc
+include ~/Dev/nano-highlight/lisp.nanorc
 
-~/Dev/nano-highlight/makefile.nanorc
-~/Dev/nano-highlight/man.nanorc
-~/Dev/nano-highlight/markdown.nanorc
-~/Dev/nano-highlight/mpdconf.nanorc
-~/Dev/nano-highlight/mutt.nanorc
-~/Dev/nano-highlight/nanorc.nanorc
-~/Dev/nano-highlight/nginx.nanorc
-~/Dev/nano-highlight/patch.nanorc
-~/Dev/nano-highlight/peg.nanorc
-~/Dev/nano-highlight/perl.nanorc
-~/Dev/nano-highlight/php.nanorc
-~/Dev/nano-highlight/pkg-config.nanorc
-~/Dev/nano-highlight/pkgbuild.nanorc
-~/Dev/nano-highlight/po.nanorc
-~/Dev/nano-highlight/pov.nanorc
-~/Dev/nano-highlight/privoxy.nanorc
-~/Dev/nano-highlight/puppet.nanorc
-~/Dev/nano-highlight/python.nanorc
-~/Dev/nano-highlight/reST.nanorc
-~/Dev/nano-highlight/rpmspec.nanorc
-~/Dev/nano-highlight/ruby.nanorc
-~/Dev/nano-highlight/scala.nanorc
-~/Dev/nano-highlight/sed.nanorc
-~/Dev/nano-highlight/sh.nanorc
-~/Dev/nano-highlight/sql.nanorc
-~/Dev/nano-highlight/systemd.nanorc
-~/Dev/nano-highlight/tcl.nanorc
-~/Dev/nano-highlight/tex.nanorc
-~/Dev/nano-highlight/vala.nanorc
-~/Dev/nano-highlight/vi.nanorc
-~/Dev/nano-highlight/xml.nanorc
-~/Dev/nano-highlight/xresources.nanorc
-~/Dev/nano-highlight/yaml.nanorc
-~/Dev/nano-highlight/yum.nanorc
-~/Dev/nano-highlight/zsh.nanorc
+include ~/Dev/nano-highlight/makefile.nanorc
+include ~/Dev/nano-highlight/man.nanorc
+include ~/Dev/nano-highlight/markdown.nanorc
+include ~/Dev/nano-highlight/mpdconf.nanorc
+include ~/Dev/nano-highlight/mutt.nanorc
+include ~/Dev/nano-highlight/nanorc.nanorc
+include ~/Dev/nano-highlight/nginx.nanorc
+include ~/Dev/nano-highlight/patch.nanorc
+include ~/Dev/nano-highlight/peg.nanorc
+include ~/Dev/nano-highlight/perl.nanorc
+include ~/Dev/nano-highlight/php.nanorc
+include ~/Dev/nano-highlight/pkg-config.nanorc
+include ~/Dev/nano-highlight/pkgbuild.nanorc
+include ~/Dev/nano-highlight/po.nanorc
+include ~/Dev/nano-highlight/pov.nanorc
+include ~/Dev/nano-highlight/privoxy.nanorc
+include ~/Dev/nano-highlight/puppet.nanorc
+include ~/Dev/nano-highlight/python.nanorc
+include ~/Dev/nano-highlight/reST.nanorc
+include ~/Dev/nano-highlight/rpmspec.nanorc
+include ~/Dev/nano-highlight/ruby.nanorc
+include ~/Dev/nano-highlight/scala.nanorc
+include ~/Dev/nano-highlight/sed.nanorc
+include ~/Dev/nano-highlight/sh.nanorc
+include ~/Dev/nano-highlight/sql.nanorc
+include ~/Dev/nano-highlight/systemd.nanorc
+include ~/Dev/nano-highlight/tcl.nanorc
+include ~/Dev/nano-highlight/tex.nanorc
+include ~/Dev/nano-highlight/vala.nanorc
+include ~/Dev/nano-highlight/vi.nanorc
+include ~/Dev/nano-highlight/xml.nanorc
+include ~/Dev/nano-highlight/xresources.nanorc
+include ~/Dev/nano-highlight/yaml.nanorc
+include ~/Dev/nano-highlight/yum.nanorc
+include ~/Dev/nano-highlight/zsh.nanorc
 
