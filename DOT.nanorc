@@ -1,20 +1,6 @@
 set nowrap
 set suspend
 
-syntax "default"
-color green 		"^#.*" 
-color green 		"^\{.*" 
-color green 		"^\}.*" 
-color brightgreen 	"^##.*"
-color yellow 		"^###.*"
-color yellow 		"^\[.*"
-color yellow 		"^--.*"
-color cyan 		"^--\ \{.*"
-color cyan 		"^--\ \}.*"
-color cyan 		"^\(.*"
-color cyan 		"^#\(.*"
-
-
 include ~/Misc/dotfiles/nano-highlight/lua.nanorc
 include ~/Misc/dotfiles/nano-highlight/python.nanorc
 include ~/Misc/dotfiles/nano-highlight/asterisk.nanorc
@@ -91,3 +77,15 @@ include ~/Misc/dotfiles/nano-highlight/yaml.nanorc
 include ~/Misc/dotfiles/nano-highlight/yum.nanorc
 include ~/Misc/dotfiles/nano-highlight/zsh.nanorc
 
+syntax "default"
+color green 		"^#.*" 
+color green 		"^\{.*" 
+color green 		"^\}.*" 
+color brightgreen 	"^##.*"
+color yellow 		"^###.*"
+color yellow 		"^\[.*"
+color yellow 		"^--.*"
+color cyan 		"^--\ \{.*"
+color cyan 		"^--\ \}.*"
+color cyan 		"^\(.*"
+color cyan 		"^#\(.*"
