@@ -17,6 +17,7 @@ color cyan 		"^#\(.*"
 
 include ~/Misc/dotfiles/nano-highlight/lua.nanorc
 include ~/Misc/dotfiles/nano-highlight/python.nanorc
+include ~/Misc/dotfiles/nano-highlight/asterisk.nanorc
 include ~/Misc/dotfiles/nano-highlight/others.nanorc
 
 include ~/Misc/dotfiles/nano-highlight/apacheconf.nanorc
